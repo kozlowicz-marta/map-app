@@ -1,0 +1,29 @@
+* {
+  max-width: 100%;
+}
+
+/*map*/
+.icon:hover {
+  fill: #999999;
+  cursor: pointer;
+}
+
+.svg-container {
+  overflow: initial;
+}
+
+/*gallery*/
+.button {
+  margin: 10px 10px 0 0;
+  width: 70px;
+  height: 35px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+
+.paragraph {
+  text-transform: uppercase;
+}
